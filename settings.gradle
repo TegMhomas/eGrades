@@ -1,0 +1,2 @@
+rootProject.name = "eGrades"
+include ':app'
